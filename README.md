@@ -15,6 +15,6 @@ C:\Users\%username%\Documents\Assetto Corsa Competizione\Customs\Liveries
 
 If you have any issues, DM Eugene_Goat on Discord, or submit an issue on Github.
 
-### ############################## NOTE ##############################
+## ############################## NOTE ##############################
 
 If you've upgraded from Win10 - Win11, the 'draghere' link won't always work. In this instance, you'll have to manually copy the files to your Documents\Assetto Corsa Competizione\Customs\Cars & Liveries folders
